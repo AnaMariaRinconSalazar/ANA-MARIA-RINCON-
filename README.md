@@ -23,11 +23,11 @@ Me interesa combinar mi formación en administración con herramientas tecnológ
 ---
 
 ### 📊 **Proyectos Destacados**
-- 📈 **Análisis de ventas y rentabilidad** con SQL y Tableau.  
+- 📈 Análisis exploratorio de datos de clientes en telecomunicaciones (EE.UU.), con enfoque en drivers de churn y notas de revisión para mejorar claridad y estructura.
 - 📉 **Dashboard de indicadores de gestión** en Tableau.  
 - 🧮 **Exploración de datos financieros** con Python y Excel.  
 
-📁 *Revisa mis proyectos en los repositorios de este perfil 👇*
+📁 *Revisa mis proyectos en los repositorios de este perfil *
 
 ---
 
