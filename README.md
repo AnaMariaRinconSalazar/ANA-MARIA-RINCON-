@@ -38,6 +38,7 @@ Me interesa combinar mi formación en administración con herramientas tecnológ
 ---
 
 ### 📫 **Contáctame**
+https://www.linkedin.com/in/ana-rincon-460037396/?trk=public-profile-join-page
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
