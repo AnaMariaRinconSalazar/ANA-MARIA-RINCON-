@@ -24,8 +24,7 @@ Me interesa combinar mi formación en administración con herramientas tecnológ
 
 ### 📊 **Proyectos Destacados**
 - 📈 Análisis exploratorio de datos de clientes en telecomunicaciones (EE.UU.), con enfoque en drivers de churn y notas de revisión para mejorar claridad y estructura.
-- 📉 **Dashboard de indicadores de gestión** en Tableau.  
-- 🧮 **Exploración de datos financieros** con Python y Excel.  
+- 📉 Flujo completo de modelado de deserción en gimnasio: exploración de datos, modelo Random Forest y segmentación K-Means para insights de retención.
 
 📁 *Revisa mis proyectos en los repositorios de este perfil *
 
